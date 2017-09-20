@@ -16,6 +16,6 @@ html {
   background-image: image("./resources/images/the-flatiron-building.jpeg");
 }
 
-.align {
+.mainhead {
   text-align: center;
 }
