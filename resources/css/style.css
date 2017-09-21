@@ -2,11 +2,11 @@ html {
   font-family: helvetica, sans-serif;
 }
 
-#mainheader {
+#home {
   font-size: 70px;
 }
 
-#mainheader, #process, .titles, #ny {
+#home, #process, .titles, #ny {
   font-weight: bold;
 }
 
@@ -21,7 +21,7 @@ html {
   background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
 }
 
-.flatironalign, .about, #ny {
+.flatironalign, .about, #ny, p, .titles {
   text-align: center;
 }
 
