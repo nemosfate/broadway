@@ -50,17 +50,7 @@ p {
 
 #copyright {
   font-size: 11px;
-}
-
-.footlink {
-  font-size: 18px;
-}
-
-.footlink, #copyright, li {
   color: white;
   background-color: dimgray;
-  background-size: 2000px;
   text-align: left;
-  display: inline-block;
-  text-decoration: none;
 }
