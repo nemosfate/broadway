@@ -7,8 +7,9 @@ body {
   font-weight: bold;
 }
 
-.nav {
+.nav li {
   font-size: 18px;
+  list-style: none;
 }
 
 .mainhead {
