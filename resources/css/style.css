@@ -20,7 +20,7 @@ repeating-linear-gradient(270deg, transparent, transparent 50px, rgba(0,0,0,.4) 
 repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2px, rgba(0,0,0,.2) 3px, transparent 3px, transparent 5px, rgba(0,0,0,.2) 5px);
 }
 
-.align {
+.flatironalign, .process {
   text-align: center;
 }
 
