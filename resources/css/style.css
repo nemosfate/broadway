@@ -1,4 +1,4 @@
-* {
+body {
   font-family: helvetica, sans-serif;
 }
 
@@ -11,11 +11,11 @@
   font-size: 18px;
 }
 
-#mainhead {
+.mainhead {
   color: white;
-  background-image: url('./resources/images/the-flatiron-building.jpeg');
+  background-image: image("./resources/images/the-flatiron-building.jpeg");
 }
 
-.mainhead {
+.align {
   text-align: center;
 }
